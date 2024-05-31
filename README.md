@@ -4,7 +4,7 @@ Projects I worked on while attending the Business Intelligence Analyst TripleTen
 
 
 | Project Title | Tool(s) Used | Objective(s) | 
-| :-----------: | ----------- |----------- |
+| :-------------: | ------------- |----------------- |
 | Market Analysis: NYC Airbnb Properties| Google Sheets | Provide real estate investment recommendations to a client who planned to purchase properties for Airbnb use | 
 | "Zuber" Rideshare Case Study | SQL | Analyze data via SQL to identify passenger rideshare preferences, then test a hypothesis about the impact of weather conditions on ride frequency | 
 | E-Commerce Transaction Analysis | Google Sheets | Present important metrics regarding customer activity on an e-commerce site for internal stakeholders. This included, but was not limited to: a conversion funnel, retention rates, purchasing activity, and a cohort analysis | 
