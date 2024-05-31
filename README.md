@@ -2,7 +2,6 @@
 
 Projects I worked on while attending the Business Intelligence Analyst TripleTen Bootcamp.
 
-
 | Project Title | Tool(s) Used | Objective(s) | 
 | :-------------: | ----------------- |----------------- |
 | Market Analysis: NYC Airbnb Properties| Google Sheets | Provide real estate investment recommendations to a client who planned to purchase properties for Airbnb use | 
@@ -11,3 +10,6 @@ Projects I worked on while attending the Business Intelligence Analyst TripleTen
 | Retail Store Optimization | Tableau | Identify root causes of high return volume for a retail store and propose data-driven recommendations to optimizing purchasing behaviors | 
 | Shopify App Analysis| Power BI | Analyze Shopify data to identify key factors that drive success of Shopify apps | 
 | Zomato Customer Segmentation Analysis | Tableau | Present customer segmentation analysis to internal stakeholders and discuss how insights may inform marketing campaigns, in-app offers, and future services | 
+
+
+File uploads and full project details coming soon
