@@ -10,6 +10,3 @@ Projects I worked on while attending the Business Intelligence Analyst TripleTen
 | [Retail Store Optimization](https://public.tableau.com/views/SprintProject5/Dashboard1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link) | Tableau | Identified root causes of high return volume for a retail store and proposed data-driven recommendations to optimizing purchasing behaviors | 
 | Shopify App Analysis| Power BI | Analyzed Shopify data to identify key factors that drive success of Shopify apps | 
 | [Zomato Customer Segmentation Analysis](https://public.tableau.com/views/ZomatoCustomerSegmentationAnalysis_17176049891700/DashboardDemographics?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link) | Tableau | Presented customer segmentation analysis to internal stakeholders and discuss how insights may inform marketing campaigns, in-app offers, and future services. Generated final conclusions and recommendations [in a report for ease of review.](https://github.com/brittanywehrle/Business-Analyst-Projects/blob/40928b1e192e61a18f977c955391cc63d4574e5a/Report_%20Zomato%20Customer%20Segmentation%20Analysis.pdf) | 
-
-
-File uploads and full project details coming soon
